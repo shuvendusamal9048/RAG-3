@@ -60,3 +60,5 @@ async def health_check():
         "version" : settings.app_version,
         "environment" : settings.environment,
     }
+
+print('hi SOum')
